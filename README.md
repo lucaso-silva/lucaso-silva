@@ -62,8 +62,8 @@
 ---
 
 <div align='center'>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=lucaso-silva&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
-  <img height="140rem" src="https://streak-stats.demolab.com/?user=lucaso-silva&theme=chartreuse-dark" />
+  <img height="160rem" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucaso-silva&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8&v=2" />
+  <img height="160rem" src="https://streak-stats.demolab.com/?user=lucaso-silva&theme=chartreuse-dark" />
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
