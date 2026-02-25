@@ -9,6 +9,7 @@
 
 ### About Me
 
+- 💻 Junior Back-end Developer focused on Java and RESTful APIs
 - 🧑🏻‍💻 Postgraduate Student in **Java Architecture and Development** at FIAP (Brazil)
 - 🎓 Diploma in Computer Studies + Certificate in Internet and Web Technology from Langara College, Vancouver, BC
 - 💼 Currently working as a Computer Lab Assistant at Langara College
@@ -62,7 +63,7 @@
 ---
 
 <div align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaso-silva&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=lucaso-silva&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
   <img height="140rem" src="https://streak-stats.demolab.com/?user=lucaso-silva&theme=chartreuse-dark" />
 </div>
 <p align="center">
