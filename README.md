@@ -13,7 +13,6 @@
 - 🧑🏻‍💻 Postgraduate Student in **Java Architecture and Development** at FIAP (Brazil)
 - 🎓 Diploma in Computer Studies + Certificate in Internet and Web Technology from Langara College, Vancouver, BC
 - 💼 Currently working as a Computer Lab Assistant at Langara College
-- 💻 Junior Back-end Developer focused on Java and RESTful APIs
 - 🏗️ Strong interest in software architecture, clean code, and best practices
 - 🌱 Exploring Spring ecosystem, backend architecture, and full-stack development
 - ☕ Enjoy coding in Java and 🎯 exploring web technologies
